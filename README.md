@@ -1,1 +1,1 @@
- https://github.com/bashirwale.github.io
+ https://github.com/Bashirwale/bashirwale.github.io
